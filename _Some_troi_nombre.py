@@ -1,0 +1,5 @@
+a = input("Enter le nombre")
+b = input("Enter le nombre")
+c = input("Enter le nombre")
+somme = int(a)+int(b)+int(c)
+print("Ma Some a et b et c est ",somme)
